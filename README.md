@@ -2,7 +2,7 @@
 
 Hey 👋
 
-I'm Fabian, a 16 y/o student from Germany.
+I'm Fabian, a 17 y/o student from Germany.
 
 I'm interested in (almost) everything involving programming, software, and tech. 🖥️
 
