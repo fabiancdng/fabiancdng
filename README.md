@@ -2,7 +2,7 @@
 
 Hey 👋
 
-**I'm Fabian, a 17 y/o student and full-stack developer from Germany.**
+**I'm Fabian, a 18 y/o student and full-stack developer from Germany.**
 
 I'm interested in (almost) everything involving programming, software, and tech. 🖥️
 
