@@ -10,8 +10,6 @@ I particularly like working with **[React](https://react.dev/)** and **[Next.js]
 
 So far, I've already worked on quite a few real-world projects 🌐
 
-Some of which you can find on my website: https://fabiancdng.com
-
 <br />
 
 **In 2021, I started working as a full-stack developer** at a company creating e-commerce solutions for **WordPress** 🛒
