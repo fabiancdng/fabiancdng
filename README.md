@@ -2,7 +2,7 @@
 
 Hey 👋
 
-**I'm Fabian, 18 y/o student and full-stack web developer from Germany.**
+**I'm Fabian, 19 y/o student and full-stack web developer from Germany.**
 
 I love working with all sorts of technologies to create full-stack web applications 🧑‍💻
 
