@@ -7,11 +7,8 @@ Hey 👋
 I love working with all sorts of technologies to create full-stack web applications 🧑‍💻
 
 I particularly like working with **[React](https://react.dev/)** and **[Next.js](https://nextjs.org/)** on the front end and **[Python](https://www.python.org/)**, **[Go](https://go.dev/)** or **JavaScript/[Node.js](https://nodejs.org/en)** on the back end.
-<br />
 
 **In 2021, I started working as a full-stack developer** at a company creating e-commerce solutions for **WordPress** 🛒
-
-<br />
 
 While completely rebuilding my website, I started a **[blog](https://fabiancdng.com/blog)** to sporadically share some of the projects I'm working on and to create a "glossary" of solutions for issues I came across on my coding journey 📝
 
