@@ -11,13 +11,9 @@ I particularly like working with **[React](https://react.dev/)** and **[Next.js]
 
 **In 2021, I started working as a full-stack developer** at a company creating e-commerce solutions for **WordPress** 🛒
 
-Through my work experience with WordPress, I've learned that modern **WordPress and PHP development** can be very versatile and can provide an amazing user experience (if done right) 🔥
-
-I learned a lot about building WordPress plugins to realize complex web projects while making use of things like the Gutenberg Editor (powered by React) and Settings APIs to achieve a high degree of customizability for users 🖥️ 🎨
-
 <br />
 
-While completely rebuilding my website, I started a **[blog](https://fabiancdng.com/blog)** to sporadically and casually share some of the projects I'm working on and to create a "glossary" of solutions for issues I came across on my coding journey 📝
+While completely rebuilding my website, I started a **[blog](https://fabiancdng.com/blog)** to sporadically share some of the projects I'm working on and to create a "glossary" of solutions for issues I came across on my coding journey 📝
 
 Feel free to check out some of my **recent posts**:
 * [SEO for Developers: Pagination](https://fabiancdng.com/blog/seo-for-developers-pagination)
