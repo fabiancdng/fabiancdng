@@ -6,13 +6,11 @@ Hey 👋
 
 I love working with all sorts of technologies to create full-stack web applications 🧑‍💻
 
-I particularly like working with **[React](https://react.dev/)** and **[Next.js](https://nextjs.org/)** on the front end and **[Python](https://www.python.org/)**, **[Go](https://go.dev/)** or **JavaScript/[Node.js](https://nodejs.org/en)** on the back end.
+I particularly like working with **JavaScript/Node.js**, **React** and **Go**.
 
 **In 2021, I started working as a full-stack developer** at a company creating e-commerce solutions for **WordPress** 🛒
 
-While completely rebuilding my website, I started a **[blog](https://fabiancdng.com/blog)** to sporadically share some of the projects I'm working on and to create a "glossary" of solutions for issues I came across on my coding journey 📝
-
-Feel free to check out some of my **recent posts**:
+Feel free to check out some of my **recent blog posts**:
 * [SEO for Developers: Pagination](https://fabiancdng.com/blog/seo-for-developers-pagination)
 * [Pagination in Next.js using SSG](https://fabiancdng.com/blog/pagination-in-next-js-using-ssg)
 * [How to Create Virtual Pages in WordPress](https://fabiancdng.com/blog/how-to-programmatically-create-virtual-pages-in-wordpress)
