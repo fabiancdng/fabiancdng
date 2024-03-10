@@ -1,6 +1,4 @@
-# About me
-
-Hey 👋
+## Hey 👋
 
 **I'm Fabian, 19 y/o student and full-stack web developer from Germany.**
 
