@@ -1,12 +1,25 @@
-## Hey 👋
+### Hey 👋
 
 **I'm Fabian, 19 y/o student and full-stack web developer from Germany.**
 
 I love working with all sorts of technologies to create full-stack web applications 🧑‍💻
 
-I particularly like working with **JavaScript/Node.js**, **React** and **Go**.
+I particularly like working with **JavaScript/Node.js**, **React**, **PHP** and **Go**.
 
-**In 2021, I started working as a full-stack developer** at a company creating e-commerce solutions for **WordPress** 🛒
+Since 2021, I have been working as a **full-stack developer** at a company creating e-commerce solutions for **WordPress** 🛒
+
+### Projects
+
+**🗃️ WordPress**
+* **[disable-wp-frontend](https://github.com/fabiancdng/disable-wp-frontend)**: A simple, lightweight WordPress plugin to disable the WordPress front end in headless environments.
+* **[wp-hook-expose](https://github.com/fabiancdng/wp-hook-expose)**: A lightweight plugin to create webhooks in WordPress.
+
+**📊 Data, Statistics & Insights**
+* **[BeeLogger](https://github.com/Programmier-AG/BeeLogger)**: A software for beekeepers to record, process, analyse and view data (such as weight or temperature).
+
+## Blog
+
+Besides coding, I enjoy writing the occasional blog post on my website.
 
 Feel free to check out some of my **recent blog posts**:
 * [SEO for Developers: Pagination](https://fabiancdng.com/blog/seo-for-developers-pagination)
