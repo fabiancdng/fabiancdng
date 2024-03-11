@@ -17,7 +17,7 @@ Since 2021, I have been working as a **full-stack developer** at a company creat
 **📊 Data, Statistics & Insights**
 * **[BeeLogger](https://github.com/Programmier-AG/BeeLogger)**: A software for beekeepers to record, process, analyse and view data (such as weight or temperature).
 
-## Blog
+### Blog
 
 Besides coding, I enjoy writing the occasional blog post on my website.
 
