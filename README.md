@@ -17,6 +17,4 @@ Since 2021, I have been working as a **full-stack developer** at a company creat
 
 <br />
 
-[![fabiancdng's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiancdng&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=fabiancdng)
