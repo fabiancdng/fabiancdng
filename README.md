@@ -1,10 +1,8 @@
 ### Hey 👋
 
-**I'm Fabian, 20 y/o Computer Science student and full-stack web developer from Germany.**
+**I'm Fabian, 21 y/o Computer Science student and full-stack web developer from Germany.**
 
 I love working with all sorts of technologies to create full-stack web applications 🧑‍💻
-
-I particularly like working with **JavaScript/Node.js**, **React**, **PHP** and **Go**.
 
 Since 2021, I have been working as a **full-stack developer** at a company creating e-commerce solutions for **WordPress** 🛒
 
